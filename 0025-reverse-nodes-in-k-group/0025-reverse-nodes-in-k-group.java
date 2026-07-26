@@ -33,12 +33,15 @@ class Solution {
     // Find the kth node from head
     public ListNode findKthNode(ListNode head, int k) {
 
-        while (head != null && --k > 0) {
-            head = head.next;
-        }
+    int count = 1;
 
-        return head;
+    while (head != null && count < k) {
+        head = head.next;
+        count++;
     }
+
+    return head;
+}
 
     public ListNode reverseKGroup(ListNode head, int k) {
 
