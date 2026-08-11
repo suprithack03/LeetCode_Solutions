@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0460-lfu-cache](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [1002-find-common-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1002-find-common-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0402-remove-k-digits](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
+| [1002-find-common-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1002-find-common-characters) |
 ## Array
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1002-find-common-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1002-find-common-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/suprithack03/LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
