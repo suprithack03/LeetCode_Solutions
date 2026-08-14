@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0057-insert-interval](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0057-insert-interval) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0347-top-k-frequent-elements](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
