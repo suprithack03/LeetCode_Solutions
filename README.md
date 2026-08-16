@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0057-insert-interval](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0057-insert-interval) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -271,4 +272,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
