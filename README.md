@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0986-interval-list-intersections](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suprithack03/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0849-maximize-distance-to-closest-person](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0907-sum-of-subarray-minimums](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0986-interval-list-intersections](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0986-interval-list-intersections) |
 | [1002-find-common-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1002-find-common-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/suprithack03/LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
