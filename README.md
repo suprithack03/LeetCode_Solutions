@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1002-find-common-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1002-find-common-characters) |
 ## Two Pointers
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0849-maximize-distance-to-closest-person](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0907-sum-of-subarray-minimums](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0986-interval-list-intersections](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0986-interval-list-intersections) |
 | [1002-find-common-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1002-find-common-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/suprithack03/LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0930-binary-subarrays-with-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Pigeonhole Principle
 |  |
 | ------- |
