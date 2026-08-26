@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1002-find-common-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1002-find-common-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0986-interval-list-intersections](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0986-interval-list-intersections) |
 | [1002-find-common-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1002-find-common-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2104-sum-of-subarray-ranges](https://github.com/suprithack03/LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sweep Line
 |  |
 | ------- |
