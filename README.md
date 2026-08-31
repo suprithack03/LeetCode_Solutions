@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1002-find-common-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1002-find-common-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1002-find-common-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Array
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Heap (Priority Queue)
