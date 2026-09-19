@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0278-first-bad-version) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
@@ -435,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
