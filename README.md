@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0460-lfu-cache) |
+| [0705-design-hashset](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0705-design-hashset) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suprithack03/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0621-task-scheduler) |
+| [0705-design-hashset](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0705-design-hashset) |
 | [0763-partition-labels](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0460-lfu-cache) |
+| [0705-design-hashset](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0849-maximize-distance-to-closest-person](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0849-maximize-distance-to-closest-person) |
@@ -506,4 +510,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0406-queue-reconstruction-by-height) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
