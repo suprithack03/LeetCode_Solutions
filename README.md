@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 ## Monotonic Queue
 |  |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0621-task-scheduler](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
@@ -357,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Quickselect
