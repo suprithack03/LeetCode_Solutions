@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0166-fraction-to-recurring-decimal](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0204-count-primes](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0260-single-number-iii) |
@@ -561,4 +563,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
