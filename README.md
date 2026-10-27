@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0319-bulb-switcher) |
 | [0523-continuous-subarray-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Stack
@@ -590,4 +591,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0069-sqrtx) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
