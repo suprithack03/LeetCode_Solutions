@@ -15,8 +15,10 @@ class Solution {
 
                 int num = grid[i][j];
 
-                if (!set.add(num)) {
+                if (set.contains(num)) {
                     repeated = num;
+                } else {
+                    set.add(num);
                 }
             }
         }
