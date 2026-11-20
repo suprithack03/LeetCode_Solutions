@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0057-insert-interval](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0078-subsets) |
