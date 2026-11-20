@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
