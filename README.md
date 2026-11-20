@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
