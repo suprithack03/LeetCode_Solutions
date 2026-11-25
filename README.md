@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1002-find-common-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suprithack03/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suprithack03/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bit Manipulation
 |  |
